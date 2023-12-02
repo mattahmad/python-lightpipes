@@ -1,7 +1,7 @@
 Sample Module Repository
 ========================
 
-This simple project is an example repo for Python projects.
+Attribute to Fred van Goor, May 2022 https://opticspy.github.io/lightpipes/introduction.html
 
 `Learn more <http://www.kennethreitz.org/essays/repository-structure-and-python>`_.
 
